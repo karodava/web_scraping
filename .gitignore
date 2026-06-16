@@ -1,0 +1,7 @@
+# Ignorar el reporte de datos generado automáticamente
+reporte_precios_libros.csv
+
+# Ignorar archivos ocultos de VS Code y Python
+.vscode/
+__pycache__/
+*.pyc
