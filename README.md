@@ -73,3 +73,6 @@ El script realiza un análisis descriptivo inmediato del mercado, arrojando mét
 *   **Precio Promedio del Mercado** (utilizando funciones agregadas de Pandas).
 *   **Identificación del Producto Estrella / Más Caro** (`idxmax()`).
 *   **Identificación del Producto Más Económico** (`idxmin()`).
+ <p align="center">
+  <img src="Web_Scraping.png" width="600" alt="Banner de presentación">
+</p> 
