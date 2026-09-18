@@ -73,11 +73,3 @@ El script realiza un análisis descriptivo inmediato del mercado, arrojando mét
 *   **Precio Promedio del Mercado** (utilizando funciones agregadas de Pandas).
 *   **Identificación del Producto Estrella / Más Caro** (`idxmax()`).
 *   **Identificación del Producto Más Económico** (`idxmin()`).
-
----
-## 🎯 Próximos Pasos (Roadmap de Aprendizaje)
-Como parte de mi crecimiento técnico, planeo expandir este proyecto implementando:
-*   [ ] **Orquestación avanzada:** Programar el archivo `.bat` en el **Programador de Tareas de Windows (Task Scheduler)** para que se ejecute de forma invisible todas las mañanas a las 8:00 AM.
-*   [ ] **Paginación automática:** Modificar el scraper para recorrer las 50 páginas del catálogo y extraer los 1,000 libros disponibles.
-*   [ ] **Dashboard Visual:** Conectar el archivo `.csv` saliente a Power BI o Tableau para crear un reporte visual interactivo de los precios.
-*   [ ] **Almacenamiento en Base de Datos:** Migrar la exportación de un archivo plano CSV a una base de datos relacional (SQLite / PostgreSQL).
